@@ -18,6 +18,7 @@ public:
             }
         }
     }
+    return ans;
 };
 
 //法二：二进制
